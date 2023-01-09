@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\danie\OneDrive\Área de Trabalho\Construtores, Palavra This, Sobrecarga,\.metadata\.plugins\org.eclipse.jdt.core
+950989839.index
+1672411255.index
+4285752383.index
+1865797976.index
+235043725.index

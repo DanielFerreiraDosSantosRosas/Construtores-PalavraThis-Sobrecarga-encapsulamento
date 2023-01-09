@@ -1,0 +1,14 @@
+package enitities;
+
+public class Cliente {
+	private int accountNumber;
+	private String accountHolder;
+	private double balance;
+	
+	public Cliente (int accountNumber, String accountHolder, double balance ) {
+		this.accountHolder = accountHolder;
+		this.accountNumber = accountNumber;
+		this.balance = balance;
+	}
+
+}
